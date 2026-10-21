@@ -4,7 +4,7 @@ I'm a computational chemist with a 🎓 PhD in Biological Engineering and a grad
 
 My research integrates physics-based simulation and data-driven approaches to understand molecular interactions, predict chemical properties, and applies them to **green chemistry and green toxicology**.
 
-🔬 I'm currently a **Postdoctoral Research Fellow at the Johns Hopkins Center for Alternatives to Animal Testing (CAAT)**, specializing in computational toxicology and AI-driven chemical safety assessment, and I'm actively seeking **industry opportunities in computational chemistry and AI/ML for safer chemicals or drug discovery**, with a preference for the **San Francisco Bay Area**.
+🔬 I'm currently a **Postdoctoral Research Fellow at the Johns Hopkins Center for Alternatives to Animal Testing (CAAT)**, specializing in computational toxicology and AI-driven chemical safety assessment, and I'm actively seeking **industry opportunities in computational chemistry and AI/ML for safer chemicals or drug discovery**, with a preference for the **with a preference for the U.S. West Coast, particularly in California**.
 
 ### 💼  Things that I'm currently working on: 
 * Working as a **Postdoctoral Research Fellow at the Johns Hopkins Center for Alternatives to Animal Testing (CAAT)**, specializing in computational toxicology and AI-driven chemical safety assessment
