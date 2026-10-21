@@ -24,7 +24,7 @@ My research focuses on integrating physics-based simulation and data-driven appr
 **[ERα Screening for PFAS](https://github.com/kaiweiii/ERalpha_screening_app2PFAS)**  
 Structure-based virtual screening and computational workflows for evaluating potential estrogen receptor activity.
 
-**[mechanstic model-grouded BCF predictor]([https://github.com/kaiweiii/ERalpha_screening_app2PFAS](https://github.com/kaiweiii/BCFpredictor))**  
+**[Mechanstic model-grouded BCF predictor](https://github.com/kaiweiii/BCFpredictor)**  
 Predicting fish bioconcentration factors (BCFs) using mechanistic models informed by partition coefficients across key biological phases, aiming to address the systematic underestimation of PFAS bioaccumulation by conventional prediction methods.
 
 **[Protein–Ligand Processor](https://github.com/kaiweiii/protein-ligand-processor)**  
