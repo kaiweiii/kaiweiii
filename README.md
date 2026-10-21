@@ -1,10 +1,15 @@
 # Hi, I'm Qianwei (Joyce) Li 👋
 
-I'm a computational chemist with a 🎓 PhD in Biological Engineering, working at the intersection of **physics-based simulation, cheminformatics, machine learning, and computational toxicology**.
+I'm a computational chemist with a 🎓 PhD in Biological Engineering and a graduate certificate in Data Science, working at the intersection of **physics-based simulation, cheminformatics, machine learning, and computational toxicology**.
 
 My research integrates physics-based simulation and data-driven approaches to understand molecular interactions, predict chemical properties, and applies them to **green chemistry and green toxicology**.
 
 🔬 I'm currently a **Postdoctoral Research Fellow at the Johns Hopkins Center for Alternatives to Animal Testing (CAAT)**, specializing in computational toxicology and AI-driven chemical safety assessment, and I'm actively seeking **industry opportunities in computational chemistry and AI/ML for safer chemicals or drug discovery**, with a preference for the **San Francisco Bay Area**.
+
+### 💼  Things that I'm currently working on: 
+* Working as a **Postdoctoral Research Fellow at the Johns Hopkins Center for Alternatives to Animal Testing (CAAT)**, specializing in computational toxicology and AI-driven chemical safety assessment
+* Building a more accessible version of my ERα Screening tool with agentic AI
+* Convincing Reviewer 1(s) that my manuscripts are ready to be published.
 
 ### 🔬 Research Interests
 - **Computational chemistry:** QSAR modeling, 2D molecular graphs, 3D molecular geometries, and physics-based simulation-informed representations, and interpretable machine learning
