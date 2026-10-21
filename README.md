@@ -2,11 +2,13 @@
 
 I'm a computational chemist with a 🎓 PhD in Biological Engineering, working at the intersection of **physics-based simulation, cheminformatics, machine learning, and computational toxicology**.
 
-My research focuses on integrating physics-based simulation and data-driven approaches to understand molecular interactions, predict chemical properties, and their applications in **green chemistry and green toxicology**.
+My research integrates physics-based simulation and data-driven approaches to understand molecular interactions, predict chemical properties, and applies them to **green chemistry and green toxicology**.
+
+🔬 I'm currently a **Postdoctoral Research Fellow at the Johns Hopkins Center for Alternatives to Animal Testing (CAAT)**, specializing in computational toxicology and AI-driven chemical safety assessment, and I'm actively seeking **industry opportunities in computational chemistry and AI/ML for safer chemicals or drug discovery**, with a preference for the **San Francisco Bay Area**.
 
 ### 🔬 Research Interests
-- **AI for Molecular Science:** Molecular representations, graph neural networks, QSAR, and interpretable ML
-- **physics-based simulation:** Molecular docking, and molecular dynamics
+- **Computational chemistry:** QSAR modeling, 2D molecular graphs, 3D molecular geometries, and physics-based simulation-informed representations, and interpretable machine learning
+- **Physics-based simulation:** Molecular docking and molecular dynamics, enhanced sampling methods
 - **Computational Toxicology:** Endocrine activity screening, PFAS assessment, and chemical hazard prediction
 - **Scientific Computing:** Reproducible workflows, data processing, and HPC automation
 
@@ -15,7 +17,9 @@ My research focuses on integrating physics-based simulation and data-driven appr
 
 **Machine Learning:** PyTorch, Scikit-learn, RDKit, Chemprop
 
-**Molecular Modeling:** AutoDock Vina, Amber, LAMMPS, ProLIF
+**Physics-based simulation:** AutoDock Vina, Amber, LAMMPS, Protein–Ligand Interaction Fingerprints
+
+**LLMs & Agentic AI:** LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), AI Agents, Structured Data Extraction 
 
 **Computing:** Linux, Git, SLURM, HPC
 
