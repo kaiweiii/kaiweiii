@@ -33,6 +33,9 @@ My research integrates physics-based simulation and data-driven approaches to un
 **[ERα Screening for PFAS](https://github.com/kaiweiii/ERalpha_screening_app2PFAS)**  
 Structure-based virtual screening and computational workflows for evaluating potential estrogen receptor activity.
 
+**[ERalphaScreening-Agent](https://github.com/kaiweiii/ERalphaScreening-Agent)**  
+This project builds upon my ongoing research on **ERα-mediated endocrine disruption screening of PFAS**, which is currently being prepared for publication. Reviewer feedback highlighted challenges in workflow reproducibility and the limitations of using only two receptor conformations. Before expanding the methodology, I decided to prioritize **accessibility and reproducibility**. By integrating agentic AI with my existing computational tools, I aim to enable researchers, even those without docking experience, to automate molecular docking, calculate screening scores, and obtain interpretable predictions through natural-language instructions.
+
 **[Mechanstic model-grouded BCF predictor](https://github.com/kaiweiii/BCFpredictor)**  
 Predicting fish bioconcentration factors (BCFs) using mechanistic models informed by partition coefficients across key biological phases, aiming to address the systematic underestimation of PFAS bioaccumulation by conventional prediction methods.
 
