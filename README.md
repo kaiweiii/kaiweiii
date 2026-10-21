@@ -44,4 +44,4 @@ Tools for preparing and processing molecular structures for docking and molecula
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/qianwei-li-joyce/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qianwei-li-joyce/)
